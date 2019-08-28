@@ -15,7 +15,21 @@ let available = [
 ]
 
 let result = filterAvailable(already_booked, available)
+printResults()
 
-result.forEach(el => {
+function printResults() {
+    console.log("\n *** Already Booked Events ***")
+    printEvents(already_booked)
+
+    console.log("\n *** Available Events ***")
+    printEvents(available)
+
+    console.log("\n *** Filtered Events ***")
+    printEvents(result)
+}
+
+function printEvents(events: CalendarEvent[]){
+    events.forEach(el => {
         console.log(el.start.toDateString() + " " + el.start.toLocaleTimeString())
     })
+}
