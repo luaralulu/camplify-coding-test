@@ -8,7 +8,7 @@ import CalendarEvent from "./calendarEvent"
  * 1:00 - 1:30pm will clash with an event on Friday 28th Dec – 1:00-3:00pm, as they are on the same
  * day of the week and overlap time despite being in separate weeks.
  * 
- * Events are considered to be lasting less than 24 hours, and do not extend to multiple days.
+ * Events are assumed to start and end in the same day.
  *
  * @export
  * @param {CalendarEvent[]} booked - the array of booked CalendarEvents
