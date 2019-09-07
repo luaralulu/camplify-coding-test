@@ -1,4 +1,4 @@
-# [Coding test](https://github.com/luaralulu/camplify-coding-test)
+# [Coding test](https://github.com/luaralulu/coding-test)
 
 Backend coding test using node.js.
 
@@ -6,9 +6,9 @@ Backend coding test using node.js.
 
 Choose one of the following options to get started:
 
-* [Download from Github](https://github.com/luaralulu/camplify-coding-test)
-* Clone the repo: `git clone https://github.com/luaralulu/camplify-coding-test.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/luaralulu/camplify-coding-test)
+* [Download from Github](https://github.com/luaralulu/coding-test)
+* Clone the repo: `git clone https://github.com/luaralulu/coding-test.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/luaralulu/coding-test)
 
 ## Usage
 
