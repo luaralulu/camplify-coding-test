@@ -1,6 +1,6 @@
-# [Camplify coding test](https://github.com/luaralulu/camplify-coding-test)
+# [Coding test](https://github.com/luaralulu/camplify-coding-test)
 
-Backend coding test using node.js for Camplify.
+Backend coding test using node.js.
 
 ## Download, Installation and Testing
 
